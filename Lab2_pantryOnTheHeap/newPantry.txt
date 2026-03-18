@@ -1,0 +1,7 @@
+tomatoes
+potatoes
+fruit
+rice
+flour
+broccoli
+celery
